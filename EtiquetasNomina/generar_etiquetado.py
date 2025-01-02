@@ -1,3 +1,5 @@
+import os
+
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from reportlab.lib.units import mm
@@ -111,7 +113,8 @@ def generate_pdf(workers, output_file):
 
 # Ejecutar el script
 input_file = "resumen_trabajadores.txt"
-output_file = "etiquetas_nomina.pdf"
+output_folder = "../archivos_pdf"  # Ruta relativa al directorio padre
+output_file = os.path.join(output_folder, "etiquetas_nomina.pdf")
 workers = parse_input_file(input_file)
 generate_pdf(workers, output_file)
 
