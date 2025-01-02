@@ -1,0 +1,1188 @@
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FONSECA PAREDES HUMBERTO
+Clave: 000001
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    3,750.00 0.00    0.00    0.00    0.00   
+
+Total Semanal: 3,750.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RIOS AVILEZ ERNESTO
+Clave: 000003
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    2,400.00 0.00    0.00    0.00    0.00   
+
+Total Semanal: 2,400.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RENTERIA ANGULO LUIS ALBERTO
+Clave: 000005
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    1,750.00 0.00    0.00    0.00    0.00   
+
+Total Semanal: 1,750.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: LOPEZ ERNESTO
+Clave: 000010
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    1,200.00 0.00    0.00    0.00    0.00   
+
+Total Semanal: 1,200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ROJO ROJO ROSARIO
+Clave: 000012
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+250.00  250.00  250.00  250.00  250.00  250.00  250.00 
+
+Total Semanal: 1,750.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BASALDUA JOSE ANGEL
+Clave: 000016
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+600.00  0.00    0.00    0.00    0.00    195.00  0.00   
+
+Total Semanal: 795.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: CARRILLO SANTIAGO
+Clave: 000018
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    870.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 870.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: DIARTE GENARO
+Clave: 000022
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    0.00    0.00    0.00    280.00  0.00   
+
+Total Semanal: 280.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: QUINTERO ARMANDO
+Clave: 000025
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  210.00  0.00    210.00  0.00    210.00  210.00 
+
+Total Semanal: 1,050.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: HERALDEZ MARCO ANTONIO
+Clave: 000034
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+280.00  280.00  330.00  330.00  0.00    660.00  330.00 
+
+Total Semanal: 2,210.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: INZUNZA JESUS (CHUYITO)
+Clave: 000039
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    840.00  320.00  0.00    0.00    320.00  320.00 
+
+Total Semanal: 1,800.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ALDUENDA GUERRA VICENTE
+Clave: 000060
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+600.00  310.00  455.00  0.00    0.00    400.00  260.00 
+
+Total Semanal: 2,025.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA MACARIO GUSTAVO
+Clave: 000062
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    310.00  455.00  0.00    0.00    400.00  260.00 
+
+Total Semanal: 1,425.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: JUAREZ RODRIGUEZ JESUS
+Clave: 000262
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    1,500.00 0.00    0.00    0.00    0.00   
+
+Total Semanal: 1,500.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: VALENZUELA ZAMBRANO ROBERTO
+Clave: 000347
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+150.00  150.00  150.00  150.00  150.00  150.00  150.00 
+
+Total Semanal: 1,050.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: URETA REYES FRANCISCO
+Clave: 000697
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+100.00  100.00  0.00    0.00    0.00    100.00  100.00 
+
+Total Semanal: 400.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MARTINEZ RUBIO ISABEL
+Clave: 000133
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  200.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 600.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RODRIGUEZ LOPEZ ISABEL
+Clave: 000143
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  216.00  162.00  0.00    233.00  0.00   
+
+Total Semanal: 811.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA ARREDONDO MANUELA
+Clave: 000147
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    210.00  210.00  210.00  0.00    210.00  0.00   
+
+Total Semanal: 840.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: HIDALGO SANCHEZ ANGELICA
+Clave: 000149
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  200.00  0.00    0.00    206.00  0.00   
+
+Total Semanal: 606.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ELIZALDE ANGULO RAMON
+Clave: 000181
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  200.00  162.00  0.00    200.00  0.00   
+
+Total Semanal: 762.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MEDINA NORIEGA DOLORES ALICIA
+Clave: 000211
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: HERNANDEZ FIGUEROA GUADALUPE
+Clave: 000238
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  0.00    0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MILLAN NU¥EZ MARIA MERCEDES
+Clave: 000243
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  200.00  162.00  0.00    233.00  0.00   
+
+Total Semanal: 795.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: VEGA JUAREZ MA  ISABEL
+Clave: 000270
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    150.00  0.00    162.00  0.00    0.00    0.00   
+
+Total Semanal: 312.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ FELIX JULIAN
+Clave: 000307
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  162.00  0.00    0.00    0.00   
+
+Total Semanal: 362.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BUENO BELTRAN CARLOS ALFREDO
+Clave: 000429
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    310.00  455.00  0.00    0.00    400.00  0.00   
+
+Total Semanal: 1,165.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: LOPEZ OSCAR
+Clave: 000511
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  0.00    0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MEDINA ARENAS MARIO
+Clave: 000614
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    0.00    0.00    0.00    200.00  0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: PLATA BOJORQUEZ EDGAR OMAR
+Clave: 000009
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    210.00  210.00  0.00    0.00    210.00  210.00 
+
+Total Semanal: 840.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BOJORQUEZ TORRES SANDRA MARIA
+Clave: 000049
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  0.00    0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA IGNACIO JORGE
+Clave: 000052
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    0.00    300.00 
+
+Total Semanal: 450.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BOJORQUEZ OLGA LIDIA
+Clave: 000055
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  150.00  0.00    0.00    200.00  206.00 
+
+Total Semanal: 756.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ARELLANO AYALA ROSARIO ELEUTERIO
+Clave: 000064
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    150.00  150.00  0.00    0.00    200.00  200.00 
+
+Total Semanal: 700.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RAMIREZ JOSE ANTONIO
+Clave: 000067
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  200.00  0.00    0.00    350.00  200.00 
+
+Total Semanal: 950.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RODRIGUEZ ELEAZAR
+Clave: 000072
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    250.00  300.00 
+
+Total Semanal: 700.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: PLATA LILIANA
+Clave: 000074
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    200.00  200.00 
+
+Total Semanal: 550.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RAMIREZ ROSALINA
+Clave: 000076
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    150.00  150.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 500.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SAINZ ALICIA
+Clave: 000083
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    150.00  0.00    0.00    0.00    0.00    200.00 
+
+Total Semanal: 350.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA IGNACIO MARIA
+Clave: 000185
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    250.00  200.00  0.00    0.00    200.00  300.00 
+
+Total Semanal: 950.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ARENAS YAHAIRA
+Clave: 000216
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  0.00    0.00    0.00    0.00    200.00 
+
+Total Semanal: 400.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RIVERA ADAN
+Clave: 000295
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    150.00  150.00  0.00    0.00    150.00  200.00 
+
+Total Semanal: 650.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARROCH OSCAR
+Clave: 000308
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 400.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BECERRA DOMINGO
+Clave: 000379
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    150.00  0.00   
+
+Total Semanal: 300.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: PLATA ROSALINA
+Clave: 000430
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    0.00    0.00    0.00    0.00    200.00 
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GAXIOLA MONTOYA ANA ZAIDA
+Clave: 000552
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  120.00  0.00    0.00    150.00  0.00   
+
+Total Semanal: 470.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: VILLA JAVIER
+Clave: 000568
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 150.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA YESENIA
+Clave: 000575
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    0.00    200.00 
+
+Total Semanal: 350.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA MACARIO LEONOR
+Clave: 000615
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 150.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FLORES ROSA
+Clave: 000685
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    120.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 320.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BELTRAN EDUARDO
+Clave: 000694
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    100.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 100.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MONTOYA SAAVEDRA MANUEL
+Clave: 000120
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 400.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MONTOYA KEVIN
+Clave: 000157
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  180.00  0.00    0.00    200.00  200.00 
+
+Total Semanal: 780.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ZEPAHUA RAMIREZ MICAELA
+Clave: 000272
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FLORES CELESTINO
+Clave: 000482
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    266.00  100.00  0.00    0.00    300.00  333.00 
+
+Total Semanal: 999.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FLORES SERGIO
+Clave: 000484
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    266.00  100.00  0.00    0.00    333.00  350.00 
+
+Total Semanal: 1,049.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FLORES FERNANDO
+Clave: 000487
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    266.00  100.00  0.00    0.00    366.00  0.00   
+
+Total Semanal: 732.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FLORES SIMON
+Clave: 000489
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    213.00  100.00  0.00    0.00    273.00  266.00 
+
+Total Semanal: 852.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MATEO MIGUEL
+Clave: 000491
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  100.00  0.00    0.00    206.00  220.00 
+
+Total Semanal: 726.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: LAZARET ABELARDO
+Clave: 000495
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  100.00  0.00    0.00    240.00  233.00 
+
+Total Semanal: 773.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ MISAEL
+Clave: 000502
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    216.00  200.00  0.00    0.00    276.00  300.00 
+
+Total Semanal: 992.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SALMERON LEONARDO
+Clave: 000599
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  200.00  0.00    0.00    236.00  233.00 
+
+Total Semanal: 869.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ DE LA CRUZ RUFINA
+Clave: 000601
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    203.00  200.00  0.00    0.00    266.00  237.00 
+
+Total Semanal: 906.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SALMERON FLAVIA
+Clave: 000603
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    210.00  200.00  0.00    0.00    280.00  250.00 
+
+Total Semanal: 940.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: CASTRO PABLO
+Clave: 000633
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    233.00  100.00  0.00    0.00    293.00  280.00 
+
+Total Semanal: 906.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: NAVA JAVIER
+Clave: 000648
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    233.00  100.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 333.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: CASTILLO JOSE
+Clave: 000670
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    200.00  180.00  0.00    0.00    200.00  200.00 
+
+Total Semanal: 780.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: VAZQUEZ MARCOS
+Clave: 000696
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BOJORQUEZ JACOBO ARCELIA
+Clave: 000091
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  180.00  0.00    0.00    180.00  0.00   
+
+Total Semanal: 522.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: CARRILLO LUZ MARIA
+Clave: 000095
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 400.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MEDINA PLATA IVAN
+Clave: 000101
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  200.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 362.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BASALDUA HERNANDEZ MARIA
+Clave: 000104
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    200.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ORTIZ SANCHEZ FERNANDO
+Clave: 000165
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  0.00    0.00    0.00    200.00  0.00   
+
+Total Semanal: 362.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ INZUNZA GABRIELA
+Clave: 000227
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  200.00  0.00    0.00    200.00  0.00   
+
+Total Semanal: 562.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: INZUNZA SALAZAR RAMON
+Clave: 000284
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  200.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 362.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ BOJORQUEZ FAUSTINO
+Clave: 000315
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    212.00  0.00    0.00    0.00    200.00  0.00   
+
+Total Semanal: 412.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: MEDINA CASTRO LUIS
+Clave: 000334
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  0.00    0.00    0.00    200.00  0.00   
+
+Total Semanal: 362.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BOJORQUES JACOBO ERASMO
+Clave: 000454
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    0.00    0.00    0.00    200.00  0.00   
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ROSAS OLIVAS JOSE
+Clave: 000698
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    162.00  0.00    0.00    0.00    0.00    0.00   
+
+Total Semanal: 162.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BUENO RAMOS MA  GLORIA
+Clave: 000213
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+185.00  185.00  185.00  0.00    0.00    458.00  185.00 
+
+Total Semanal: 1,198.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SALAZAR LOURDES
+Clave: 000400
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  0.00    210.00  0.00    0.00    298.00  210.00 
+
+Total Semanal: 928.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: DAVILA AVALOS AMPARO
+Clave: 000402
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+195.00  195.00  195.00  0.00    0.00    283.00  195.00 
+
+Total Semanal: 1,063.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: IBARRA BUENO ELENA BERENICE
+Clave: 000405
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    210.00  0.00    0.00    298.00  210.00 
+
+Total Semanal: 718.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: CASTILLO GUILLERMINA
+Clave: 000413
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  0.00    210.00  0.00    0.00    298.00  210.00 
+
+Total Semanal: 928.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: FAVELA MA  ALICIA
+Clave: 000417
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    195.00  195.00  0.00    0.00    283.00  195.00 
+
+Total Semanal: 868.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: VALENCIA AMELIA
+Clave: 000422
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  710.00  210.00  0.00    0.00    298.00  210.00 
+
+Total Semanal: 1,638.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ AMAIRANY
+Clave: 000425
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  0.00    0.00    0.00    0.00    193.00  105.00 
+
+Total Semanal: 508.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BUENO LOPEZ HERLINDA
+Clave: 000434
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  210.00  210.00  0.00    0.00    298.00  210.00 
+
+Total Semanal: 1,138.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GASTELUM MIGUEL ANGEL
+Clave: 000439
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+240.00  990.00  240.00  0.00    0.00    328.00  240.00 
+
+Total Semanal: 2,038.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: NIEBLA YESENIA
+Clave: 000442
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    210.00  0.00    0.00    0.00    0.00    0.00   
+
+Total Semanal: 210.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GONZALEZ CAMACHO JESUS MARTIN
+Clave: 000447
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+240.00  0.00    240.00  0.00    0.00    328.00  240.00 
+
+Total Semanal: 1,048.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GAXIOLA ARREDONDO RICARDO
+Clave: 000456
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+290.00  240.00  240.00  0.00    0.00    120.00  240.00 
+
+Total Semanal: 1,130.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GONZALEZ VALENZUELA JOSE MARTIN
+Clave: 000469
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+240.00  240.00  240.00  0.00    0.00    328.00  240.00 
+
+Total Semanal: 1,288.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GARCIA VICTORIA
+Clave: 000537
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    0.00    0.00    0.00    283.00  0.00   
+
+Total Semanal: 283.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BUENO ARENAS ALMA ROSA
+Clave: 000545
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+210.00  210.00  0.00    0.00    0.00    298.00  210.00 
+
+Total Semanal: 928.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: BOJORQUEZ SANCHEZ JESUS
+Clave: 000550
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    150.00  0.00    0.00    238.00  150.00 
+
+Total Semanal: 538.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: UNZUETA RETANA JOSE FRANCISCO
+Clave: 000573
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+240.00  240.00  240.00  0.00    0.00    240.00  240.00 
+
+Total Semanal: 1,200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: ACOSTA LARES GUADALUPE
+Clave: 000582
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+195.00  195.00  195.00  0.00    0.00    0.00    195.00 
+
+Total Semanal: 780.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: HERNANDEZ CABANILLAS ROSA MA
+Clave: 000627
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+195.00  195.00  195.00  0.00    0.00    0.00    195.00 
+
+Total Semanal: 780.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: INZUNZA HERNANDEZ ELMER YAHIR
+Clave: 000629
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+200.00  0.00    100.00  0.00    0.00    100.00  100.00 
+
+Total Semanal: 500.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: GUTIERREZ LOPEZ MAYRA PATRICIA
+Clave: 000637
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+195.00  195.00  195.00  0.00    0.00    0.00    195.00 
+
+Total Semanal: 780.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: RENTERIA ANGULO BRYAN
+Clave: 000651
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    0.00    0.00    0.00    100.00  100.00 
+
+Total Semanal: 200.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: LOPEZ CAMACHO MA  AZUCENA
+Clave: 000659
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    100.00  100.00  0.00    0.00    0.00    100.00 
+
+Total Semanal: 300.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: LOPEZ CAMACHO BRENDA
+Clave: 000664
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+100.00  100.00  100.00  0.00    0.00    100.00  100.00 
+
+Total Semanal: 500.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: SANCHEZ OLIVAS SAMUEL
+Clave: 000679
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+240.00  240.00  240.00  0.00    0.00    328.00  240.00 
+
+Total Semanal: 1,288.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: AVILA QUEZADA SAUL
+Clave: 000682
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+240.00  240.00  0.00    0.00    0.00    0.00    240.00 
+
+Total Semanal: 720.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: NIEBLAS RETANA JOSE MIGUEL
+Clave: 000690
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+0.00    0.00    240.00  0.00    0.00    0.00    0.00   
+
+Total Semanal: 240.00
+----------------------------------------
+----------------------------------------
+AGRICOLA LAURA ELENA SA DE CV
+Nombre: LOPEZ CAMACHO BRIANDA
+Clave: 000692
+Temporada: 10/11
+
+LUNE    MARTE     MIER    JUEV    VIER    SABA    DOMI   
+100.00  100.00  100.00  0.00    0.00    100.00  100.00 
+
+Total Semanal: 500.00
+----------------------------------------
